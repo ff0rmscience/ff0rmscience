@@ -1,10 +1,10 @@
-Hi, I’m @ff0rmscience.
+Hi, I’m @ff0rmscience, a mathematician who loves to code.
 
-I'm a mathematician who loves to code.
+At the moment I'm posting a collection of programs I wrote while in grad school.
 
-At the moment I'm trying to finally get a collection of neural network and crypto projects put up here, on github.
+These programs explored ideas in deep learning, crypto, and cellular automata. 
 
-I'm just finishing grad school and looking for interesting work outside of academia. 
+
 
 
 
