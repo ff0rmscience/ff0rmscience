@@ -2,7 +2,7 @@ Hi. I'm Scott Zweydorff. While in grad school (mathematics) I implemented variou
 
 I'd love to talk about these things and perhaps collaborate with others who are interested.  Also please feel free to take any of these ideas and improve them.
 
-https://studio.youtube.com/video/K32MrUhvuMY/edit
+https://www.youtube.com/watch?v=smpUyG_5zcI
 
 
 
