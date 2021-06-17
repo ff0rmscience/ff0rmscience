@@ -1,8 +1,9 @@
-Hi, I’m @ff0rmscience, a mathematician who loves to code.
+Hi. I'm Scott Zweydorff, a mathematician working to transition into software development. While in grad school I implemented various mathematical ideas mostly for myself, and I'm currently trying to make them more presentable, sometimes writing them in a new language. The ideas tend to fall into three categories: neural networks, cellular automata, and cryptography.
 
-At the moment I'm polishing and posting a collection of programs I wrote while in grad school.
+https://studio.youtube.com/video/K32MrUhvuMY/edit
 
-These programs explore ideas in deep learning, crypto, and cellular automata. 
+
+
 
 
 
