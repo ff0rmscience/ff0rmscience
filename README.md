@@ -1,4 +1,4 @@
-Hi. I'm Scott Zweydorff. While in grad school (mathematics) I implemented various mathematical ideas as part of my research (or sometimes just for fun), and I'm currently trying to make them more presentable, sometimes writing them in a new language. The ideas tend to fall into three categories: neural networks, cellular automata, and cryptography.
+ While in grad school (mathematics) I implemented various mathematical ideas as part of my research (or sometimes just for fun), and I'm currently trying to make them more presentable, sometimes writing them in a new language. The ideas tend to fall into three categories: neural networks, cellular automata, and cryptography.
 
 I'd love to talk about these things and perhaps collaborate with others who are interested.  Also please feel free to take any of these ideas and improve them.
 
